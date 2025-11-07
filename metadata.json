@@ -1,0 +1,5 @@
+{
+  "name": "NovaArt",
+  "description": "An AI-powered art generation tool using Gemini. Create new images from text prompts or upload your own to edit and transform them with AI.",
+  "requestFramePermissions": []
+}
